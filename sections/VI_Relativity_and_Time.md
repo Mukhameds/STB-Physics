@@ -4,7 +4,7 @@ title: VI. Relativity and Time
 permalink: /sections/VI_Relativity_and_Time.html
 ---
 ---
-VI. Relativity and Time
+## **VI. Relativity and Time**
 ---
 #### **6.1. Response Delay: \( \Delta t = \frac{1}{1 + \lambda m + \rho_s} \)**
 ---
