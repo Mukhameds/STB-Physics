@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: VI. Relativity and Time
