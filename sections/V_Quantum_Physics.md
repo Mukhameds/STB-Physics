@@ -1,9 +1,7 @@
 ---
-
 layout: default
-title: V. Quantum Physics in STB
-permalink: /sections/V_Quantum_Physics_STB.html
-
+title: V. Quantum_Physics
+permalink: /sections/V_Quantum_Physics.html
 ---
 ---
 ### **V. Quantum Physics in STB**
