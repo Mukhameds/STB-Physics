@@ -4,7 +4,7 @@ title: VII. Gravity
 permalink: /sections/VII_Gravity.html
 ---
 ---
-##  **VII. Gravity **
+## **VII. Gravity**
 ---
 #### **7.1. Not Curvature, but Field Resistance**
 ---
