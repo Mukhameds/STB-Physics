@@ -1,0 +1,19 @@
+title: "STB Physics"
+baseurl: "/STB-Physics"
+markdown: kramdown
+ 
+kramdown:
+  math_engine: mathjax
+  input: GFM
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: default
+  - scope:
+      path: "sections"
+      type: "pages"
+    values:
+      layout: default
