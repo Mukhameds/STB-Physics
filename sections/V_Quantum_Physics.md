@@ -1,4 +1,4 @@
----
+--- 
 layout: default
 title: V. Quantum_Physics
 permalink: /sections/V_Quantum_Physics.html
